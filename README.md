@@ -1,9 +1,9 @@
 # 👋 Привет! Меня зовут <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Аптуков Михаил
 
-<div style="display: flex; justify-content: center; gap: 2%; width: 100%;">
-    <img src="docs/circle.gif" alt="Circle GIF" style="width: 30%; max-width: 300px; height: auto;" />
-    <img src="docs/name.png" alt="Duck GIF" style="width: 30%; max-width: 300px; height: auto;" />    
-    <img src="docs/duck.gif" alt="Duck GIF" style="width: 30%; max-width: 300px; height: auto;" />
+<div align="center">
+  <img src="docs/circle.gif" alt="Circle GIF" width="250" height="250" style="display:inline-block; margin: 0 10px;" />
+  <img src="docs/name.png" alt="Name PNG" width="250" height="250" style="display:inline-block; margin: 0 10px;" />
+  <img src="docs/duck.gif" alt="Duck GIF" width="250" height="250" style="display:inline-block; margin: 0 10px;" />
 </div>
 
 ## 📚 О себе
